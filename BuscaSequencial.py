@@ -22,3 +22,4 @@ if __name__ == '__main__':
             break
 
 print("exemplo de mudança no arquivo")
+print()
