@@ -1,0 +1,1 @@
+Exercícios feitos na Disciplina de Estrutura de Dados ministrada pelo prof. Otacílio Neto.
